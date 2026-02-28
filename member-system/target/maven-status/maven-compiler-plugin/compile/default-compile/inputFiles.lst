@@ -1,0 +1,14 @@
+d:\cpIDEA\ai wancheng\member-system\src\main\java\com\example\membersystem\entity\Announcement.java
+d:\cpIDEA\ai wancheng\member-system\src\main\java\com\example\membersystem\entity\Member.java
+d:\cpIDEA\ai wancheng\member-system\src\main\java\com\example\membersystem\repository\AnnouncementRepository.java
+d:\cpIDEA\ai wancheng\member-system\src\main\java\com\example\membersystem\controller\UserController.java
+d:\cpIDEA\ai wancheng\member-system\src\main\java\com\example\membersystem\service\AuthService.java
+d:\cpIDEA\ai wancheng\member-system\src\main\java\com\example\membersystem\entity\User.java
+d:\cpIDEA\ai wancheng\member-system\src\main\java\com\example\membersystem\service\UserDetailsServiceImpl.java
+d:\cpIDEA\ai wancheng\member-system\src\main\java\com\example\membersystem\config\SecurityConfig.java
+d:\cpIDEA\ai wancheng\member-system\src\main\java\com\example\membersystem\controller\AnnouncementController.java
+d:\cpIDEA\ai wancheng\member-system\src\main\java\com\example\membersystem\controller\AuthController.java
+d:\cpIDEA\ai wancheng\member-system\src\main\java\com\example\membersystem\repository\MemberRepository.java
+d:\cpIDEA\ai wancheng\member-system\src\main\java\com\example\membersystem\controller\AdminController.java
+d:\cpIDEA\ai wancheng\member-system\src\main\java\com\example\membersystem\MemberSystemApplication.java
+d:\cpIDEA\ai wancheng\member-system\src\main\java\com\example\membersystem\repository\UserRepository.java
